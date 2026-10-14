@@ -41,4 +41,4 @@ This project provides actionable insights for e-commerce business operations by 
 ## 📁 Repository Structure
 
 - `E-Commers_Sales&Project_Dashboard.pbix` — Power BI source file
-- `Ecommerce_Dashboard_Report.pdf` — PDF export of all 4 dashboard pages
+- `Ecommerce.pdf` — PDF export of all 4 dashboard pages
